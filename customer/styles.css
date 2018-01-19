@@ -1,0 +1,29 @@
+html,
+body {
+    height: 100%;
+}
+
+img {
+    max-width: 100%;
+}
+
+/* cover */
+
+#cover {
+    background-size: cover;
+    background-image: url('img/');
+    color: black;
+    height: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+#cover-caption {
+    width: 100%;
+}
+
+.section-content {
+    padding: 5rem 0;
+}
+
